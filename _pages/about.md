@@ -13,8 +13,8 @@ Yubo Liu received his Ph.D. degree of computer science and technology from Sun Y
 
 News
 ======
-* ** [Sep. 1, 2021] Paper "" is accepted by NPC'21
-* ** [Aug. 1, 2021] Paper "" is accepted by ISPA'21
-* ** [Jun. 1, 2021] Got my Ph.D. degree! Cheer :)
+* [Sep, 2021] Paper "" is accepted by NPC'21
+* [Aug, 2021] Paper "" is accepted by ISPA'21
+* [Jun, 2021] Got my Ph.D. degree! Cheer :-)
 
 
