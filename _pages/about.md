@@ -20,16 +20,21 @@ News
 
 Pubilications
 ======
-1. AAA
-1. BBB
-1. CCC
+1. Xianqi Zheng, Jia Ma, **Yubo Liu**, and Zhiguang Chen, "BDCuckoo: An Efficient Cuckoo Hash for Block Device", in Proceedings of 18th Annual IFIP International Conference on Network and Parallel Computing (NPC), 2021.
+1. Jia Ma, Xianqi Zheng, **Yubo Liu**, and Zhiguang Chen, "KBP: Mining Block Access Pattern for I/O Prediction with K-Truss", in Proceedings of IEEE 19th International Symposium on Parallel and Distributed Processing with Applications (ISPA), 2021.
+1. Zhiguang Chen, **Yubo Liu**, Yongfeng Wang, and Yutong Lu, "A GPU-Accelerated In-Memory Metadata Management Scheme for Large-Scale Parallel File Systems", Journal of Computer Science and Technology, 2021.
+1. **Yubo Liu**, Yutong Lu, Zhiguang Chen, and Ming Zhao, "Pacon: Improving Scalability and Efficiency of Metadata Service through Partial Consistency", in Proceedings of IEEE 34th International Parallel and Distributed Processing Symposium (IPDPS), 2020. (Acceptance Rate: 24.7\%)
+1. Jianyu Fu, **Yubo Liu**, and Guangming Liu, "JCache: Journaling-Aware Flash Caching", IEEE Access, 2020.
+1. **Yubo Liu**, Hongbo Li, Yutong Lu, Zhiguang Chen, and Ming Zhao, "An Efficient and Flexible Metadata Management Layer for Local File Systems", in Proceedings of IEEE 37th International Conference on Computer Design (ICCD), 2019. (Acceptance Rate: 23.8\%)
+1. **Yubo Liu**, Hongbo Li, Yutong Lu, Zhiguang Chen, Nong Xiao, and Ming Zhao, "HasFS: Optimizing File System Consistency Mechanism on NVM-based Hybrid Storage Architecture", Cluster Computing, 2019.
+1. Chuyu She, Wushao Wen, Yang Xiao, **Yubo Liu**, and Yin Jia, "Adaptive Load Balancing Strategy for the File-System Metadata Service" (in Chinese), Journal of Software , 2017.
 
 
 Work-in-Progress Reports & Posters
 ======
-1. AAA
-1. BBB
-1. CCC
+1. Hongbo Li, **Yubo Liu**, Zhiguang Chen, and Nong Xiao, "GramFS: The Graph Model-based Namespace Management of Large-scale Distributed File Systems", in Poster Section of USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage), 2020.
+1. **Yubo Liu**, Hongbo Li, Yutong Lu, and Ming Zhao, "Enhancing Metadata Management Efficiency for Local File Systems", in Work-in-Progress Report and Poster Section of USENIX Conference on File and Storage Technologies (FAST), 2019.
+1. **Yubo Liu**, Yutong Lu, Zhiguang Chen, Yunfei Du, and Nong Xiao, "HasFS: A File System for NVM-based Hybrid Storage Architecture", in PhD Forum of ISC High Performance (ISC), 2018.
 
 
 Awards
@@ -40,8 +45,13 @@ Awards
 
 Talks
 ======
-1. AAA
-1. BBB
+* [May. 2020 @ Online] Paper Presentation in IPDPS 2020.
+* [Nov. 2019 @ Abu Dhabi, UAE] Paper Presentation in ICCD 2019.
+* [Feb. 2019 @ Boston, USA] WiP Presentation in FAST 2019.
+* [Sep. 2018 @ Beijing, China] Invited Talk in Summer School of SuperData Project.
+* [Jul. 2018 @ Frankfurt, Germany] Poster Presentation in PhD Forum of ISC 2018.
+* [Sep. 2017 @ Stavanger, Norway] Invited Talk in Summer School of SuperData Project.
+* [Jan. 2017 @ Paris, France] Invited Talk in Week of International Scientific Young Talents.
 
 
 Contact
