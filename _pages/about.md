@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yubo Liu received his Ph.D. degree of computer science and technology from National Supercomputer Center in Guangzhou at Sun Yat-sen University in 2021 (advised by [Prof. Yutong Lu](https://cse.sysu.edu.cn/content/2483)). He is also a joint Ph.D. student of VISA Lab at Arizona State University (advised by [Prof. Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/)). His research direction is storage system and high performance computing, including but not limited to distributed/local file system, object storage system, persistent memory, and consistency. His works have been published in some well-known academic conferences and journals (IPDPS, ICCD, Cluster Computing, etc).
+Dr. Yubo Liu received his Ph.D. degree of computer science and technology from National Supercomputer Center in Guangzhou at Sun Yat-sen University in 2021 (advised by [Prof. Yutong Lu](https://cse.sysu.edu.cn/content/2483)). He is also a joint Ph.D. student of VISA Lab at Arizona State University (advised by [Prof. Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/)). His research direction is storage system and high performance computing, including but not limited to distributed/local file system, object storage system, persistent memory, and consistency. His works have been published in some well-known academic conferences and journals (IPDPS, ICCD, Cluster Computing, etc).
 
 &emsp;
 
