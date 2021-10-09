@@ -11,13 +11,17 @@ redirect_from:
 Yubo Liu received his Ph.D. degree of computer science and technology from Sun Yat-sen University in 2021 (advised by [Prof. Yutong Lu](https://cse.sysu.edu.cn/content/2483)). He is also a joint Ph.D. student at Arizona State University (advised by [Prof. Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/)). His research direction is storage system and high performance computing, including but not limited to distributed/local file system, object storage system, persistent memory, and consistency. His works have been published in some well-known academic conferences and journals (IPDPS, ICCD, Cluster Computing, etc).
 
 -------
+
+
 News
 ======
-* [Sep. 2021] Our paper is accepted by NPC'21
-* [Aug. 2021] Our paper is accepted by ISPA'21
-* [Jun. 2021] Get my Ph.D. degree!!! Cheer :-)
+* **[Sep. 2021]** Our paper is accepted by NPC'21
+* **[Aug. 2021]** Our paper is accepted by ISPA'21
+* **[Jun. 2021]** Get my Ph.D. degree!!! Cheer :-)
 
 -------
+
+
 Pubilications
 ======
 1. Xianqi Zheng, Jia Ma, **Yubo Liu**, and Zhiguang Chen, "BDCuckoo: An Efficient Cuckoo Hash for Block Device", in Proceedings of 18th Annual IFIP International Conference on Network and Parallel Computing (NPC), 2021.
@@ -30,6 +34,8 @@ Pubilications
 1. Chuyu She, Wushao Wen, Yang Xiao, **Yubo Liu**, and Yin Jia, "Adaptive Load Balancing Strategy for the File-System Metadata Service" (in Chinese), Journal of Software , 2017.
 
 -------
+
+
 Work-in-Progress Reports & Posters
 ======
 1. Hongbo Li, **Yubo Liu**, Zhiguang Chen, and Nong Xiao, "GramFS: The Graph Model-based Namespace Management of Large-scale Distributed File Systems", in Poster Section of USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage), 2020.
@@ -37,23 +43,29 @@ Work-in-Progress Reports & Posters
 1. **Yubo Liu**, Yutong Lu, Zhiguang Chen, Yunfei Du, and Nong Xiao, "HasFS: A File System for NVM-based Hybrid Storage Architecture", in PhD Forum of ISC High Performance (ISC), 2018.
 
 -------
+
+
 Awards
 ======
 * AAA
 * BBB
 
 -------
+
+
 Talks
 ======
-* [May. 2020 @ Online] Paper Presentation in IPDPS 2020.
-* [Nov. 2019 @ Abu Dhabi, UAE] Paper Presentation in ICCD 2019.
-* [Feb. 2019 @ Boston, USA] WiP Presentation in FAST 2019.
-* [Sep. 2018 @ Beijing, China] Invited Talk in Summer School of SuperData Project.
-* [Jul. 2018 @ Frankfurt, Germany] Poster Presentation in PhD Forum of ISC 2018.
-* [Sep. 2017 @ Stavanger, Norway] Invited Talk in Summer School of SuperData Project.
-* [Jan. 2017 @ Paris, France] Invited Talk in Week of International Scientific Young Talents.
+* **[May. 2020 @ Online]** Paper Presentation in IPDPS 2020.
+* **[Nov. 2019 @ Abu Dhabi, UAE]** Paper Presentation in ICCD 2019.
+* **[Feb. 2019 @ Boston, USA]** WiP Presentation in FAST 2019.
+* **[Sep. 2018 @ Beijing, China]** Invited Talk in Summer School of SuperData Project.
+* **[Jul. 2018 @ Frankfurt, Germany]** Poster Presentation in PhD Forum of ISC 2018.
+* **[Sep. 2017 @ Stavanger, Norway]** Invited Talk in Summer School of SuperData Project.
+* **[Jan. 2017 @ Paris, France]** Invited Talk in Week of International Scientific Young Talents.
 
 -------
+
+
 Contact
 ======
 yubo.liu@nscc-gz.cn
