@@ -11,7 +11,6 @@ redirect_from:
 Dr. Yubo Liu received his Ph.D. degree in computer science and technology from [National Supercomputer Center in Guangzhou](http://www.nscc-gz.cn/) at Sun Yat-sen University in 2021, advised by [Prof. Yutong Lu](https://cse.sysu.edu.cn/content/2483). He is also a joint Ph.D. student of [VISA Lab](http://visa.lab.asu.edu/web/about/) at Arizona State University, advised by [Prof. Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/). His research direction is storage system and high performance computing, including but not limited to distributed/local file system, object storage system, persistent memory, and consistency. His works have been published on some well-known academic conferences and journals (IPDPS, ICCD, Cluster Computing, etc).
 
 **Contact:** yubo.liu AT nscc-gz DOT cn
-
 &emsp;
 
 -------
@@ -22,7 +21,6 @@ News
 * **[Sep. 2021]** Our paper is accepted by NPC'21
 * **[Aug. 2021]** Our paper is accepted by ISPA'21
 * **[Jun. 2021]** Get my Ph.D. degree!!! Cheers :-)
-
 &emsp;
 
 -------
@@ -38,7 +36,6 @@ Pubilications
 1. **Yubo Liu**, Hongbo Li, Yutong Lu, Zhiguang Chen, and Ming Zhao, "[An Efficient and Flexible Metadata Management Layer for Local File Systems](http://pplau.github.io/files/iccd19.pdf)", *in Proceedings of IEEE 37th International Conference on Computer Design* (ICCD), 2019. (Acceptance Rate: 23.8%)
 1. **Yubo Liu**, Hongbo Li, Yutong Lu, Zhiguang Chen, Nong Xiao, and Ming Zhao, "[HasFS: Optimizing File System Consistency Mechanism on NVM-based Hybrid Storage Architecture](https://link.springer.com/article/10.1007/s10586-019-03023-y)", *Cluster Computing*, 2019.
 1. Chuyu She, Wushao Wen, Yang Xiao, **Yubo Liu**, and Yin Jia, "[Adaptive Load Balancing Strategy for the File-System Metadata Service]()" (in Chinese), *Journal of Software*, 2017.
-
 &emsp;
 
 -------
@@ -49,7 +46,6 @@ WiPs & Posters
 1. Hongbo Li, **Yubo Liu**, Zhiguang Chen, and Nong Xiao, "GramFS: The Graph Model-based Namespace Management of Large-scale Distributed File Systems", *in Poster Section of USENIX Workshop on Hot Topics in Storage and File Systems* (HotStorage), 2020.
 1. **Yubo Liu**, Hongbo Li, Yutong Lu, and Ming Zhao, "Enhancing Metadata Management Efficiency for Local File Systems", *in Work-in-Progress Report and Poster Section of USENIX Conference on File and Storage Technologies* (FAST), 2019.
 1. **Yubo Liu**, Yutong Lu, Zhiguang Chen, Yunfei Du, and Nong Xiao, "HasFS: A File System for NVM-based Hybrid Storage Architecture", *in PhD Forum of ISC High Performance* (ISC), 2018.
-
 &emsp;
 
 -------
@@ -59,7 +55,6 @@ Awards
 ======
 * AAA
 * BBB
-
 &emsp;
 
 -------
@@ -74,7 +69,6 @@ Talks
 * **[Jul. 2018 @ Frankfurt, Germany]** Poster Presentation on PhD Forum of ISC 2018.
 * **[Sep. 2017 @ Stavanger, Norway]** Invited Talk on Summer School of SuperData Project.
 * **[Jan. 2017 @ Paris, France]** Invited Talk on Week of International Scientific Young Talents.
-
 &emsp;
 
 -------
