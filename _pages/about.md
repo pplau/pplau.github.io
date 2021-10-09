@@ -67,13 +67,13 @@ Awards
 
 Talks
 ======
-* **[May. 2020 @ Online]** Paper Presentation in IPDPS 2020.
-* **[Nov. 2019 @ Abu Dhabi, UAE]** Paper Presentation in ICCD 2019.
-* **[Feb. 2019 @ Boston, USA]** WiP Presentation in FAST 2019.
-* **[Sep. 2018 @ Beijing, China]** Invited Talk in Summer School of SuperData Project.
-* **[Jul. 2018 @ Frankfurt, Germany]** Poster Presentation in PhD Forum of ISC 2018.
-* **[Sep. 2017 @ Stavanger, Norway]** Invited Talk in Summer School of SuperData Project.
-* **[Jan. 2017 @ Paris, France]** Invited Talk in Week of International Scientific Young Talents.
+* **[May. 2020 @ Online]** Paper Presentation on IPDPS 2020.
+* **[Nov. 2019 @ Abu Dhabi, UAE]** Paper Presentation on ICCD 2019.
+* **[Feb. 2019 @ Boston, USA]** WiP Presentation on FAST 2019.
+* **[Sep. 2018 @ Beijing, China]** Invited Talk on Summer School of SuperData Project.
+* **[Jul. 2018 @ Frankfurt, Germany]** Poster Presentation on PhD Forum of ISC 2018.
+* **[Sep. 2017 @ Stavanger, Norway]** Invited Talk on Summer School of SuperData Project.
+* **[Jan. 2017 @ Paris, France]** Invited Talk on Week of International Scientific Young Talents.
 
 &emsp;
 
