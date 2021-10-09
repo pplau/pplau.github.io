@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yubo Liu received his Ph.D. degree in computer science and technology from National Supercomputer Center in Guangzhou at Sun Yat-sen University in 2021, advised by [Prof. Yutong Lu](https://cse.sysu.edu.cn/content/2483). He is also a joint Ph.D. student of VISA Lab at Arizona State University, advised by [Prof. Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/). His research direction is storage system and high performance computing, including but not limited to distributed/local file system, object storage system, persistent memory, and consistency. His works have been published on some well-known academic conferences and journals (IPDPS, ICCD, Cluster Computing, etc).
+Dr. Yubo Liu received his Ph.D. degree in computer science and technology from [National Supercomputer Center in Guangzhou](http://www.nscc-gz.cn/) at Sun Yat-sen University in 2021, advised by [Prof. Yutong Lu](https://cse.sysu.edu.cn/content/2483). He is also a joint Ph.D. student of [VISA Lab](http://visa.lab.asu.edu/web/about/) at Arizona State University, advised by [Prof. Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/). His research direction is storage system and high performance computing, including but not limited to distributed/local file system, object storage system, persistent memory, and consistency. His works have been published on some well-known academic conferences and journals (IPDPS, ICCD, Cluster Computing, etc).
 
 **Contact:** yubo.liu AT nscc-gz DOT cn
 
@@ -44,7 +44,7 @@ Pubilications
 -------
 
 
-Work-in-Progress Reports & Posters
+WiPs & Posters
 ======
 1. Hongbo Li, **Yubo Liu**, Zhiguang Chen, and Nong Xiao, "GramFS: The Graph Model-based Namespace Management of Large-scale Distributed File Systems", *in Poster Section of USENIX Workshop on Hot Topics in Storage and File Systems* (HotStorage), 2020.
 1. **Yubo Liu**, Hongbo Li, Yutong Lu, and Ming Zhao, "Enhancing Metadata Management Efficiency for Local File Systems", *in Work-in-Progress Report and Poster Section of USENIX Conference on File and Storage Technologies* (FAST), 2019.
