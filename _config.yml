@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Ee7ZuMsAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://music.163.com/radio/?id=960671309&userid=97338948"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  163music         : "https://music.163.com/radio/?id=960671309&userid=97338948"
 
 
 # Reading Files
