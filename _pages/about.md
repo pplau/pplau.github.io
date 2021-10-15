@@ -37,7 +37,6 @@ Pubilications
 1. Jianyu Fu, **Yubo Liu**, and Guangming Liu, "[JCache: Journaling-Aware Flash Caching](https://ieeexplore.ieee.org/abstract/document/9051733)", IEEE Access, 2020.
 1. **Yubo Liu**, Hongbo Li, Yutong Lu, Zhiguang Chen, and Ming Zhao, "[An Efficient and Flexible Metadata Management Layer for Local File Systems](http://pplau.github.io/files/iccd19.pdf)", *in Proceedings of IEEE 37th International Conference on Computer Design* (ICCD), 2019. (Acceptance Rate: 23.8%)
 1. **Yubo Liu**, Hongbo Li, Yutong Lu, Zhiguang Chen, Nong Xiao, and Ming Zhao, "[HasFS: Optimizing File System Consistency Mechanism on NVM-based Hybrid Storage Architecture](https://link.springer.com/article/10.1007/s10586-019-03023-y)", *Cluster Computing*, 2019.
-1. Chuyu She, Wushao Wen, Yang Xiao, **Yubo Liu**, and Yin Jia, "[Adaptive Load Balancing Strategy for the File-System Metadata Service](http://pplau.github.io/files/jos.pdf)" (in Chinese), *Journal of Software*, 2017.
 
 &emsp;
 
