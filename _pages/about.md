@@ -19,8 +19,9 @@ Dr. Yubo Liu received his Ph.D. degree in computer science and technology from [
 
 News
 ======
-* **[Sep. 2021]** Our paper is accepted by NPC'21
-* **[Aug. 2021]** Our paper is accepted by ISPA'21
+* **[Nov. 2021]** One paper is accepted by DATE'22
+* **[Sep. 2021]** One paper is accepted by NPC'21
+* **[Aug. 2021]** One paper is accepted by ISPA'21
 * **[Jun. 2021]** Get my Ph.D. degree!!! Cheers :-)
 
 &emsp;
@@ -30,6 +31,7 @@ News
 
 Pubilications
 ======
+1. Yongfeng Wang, Yinjin Fu, **Yubo Liu**, Zhiguang Chen and Nong Xiao, "[Characterizing and Optimizing Hybrid DRAM-PM Main Memory System with Application Awareness](http://pplau.github.io/files/date21.pdf)", *in Proceedings of Design, Automation and Test in Europe Conference* (DATE), 2022. (Acceptance Rate: 25%)
 1. Xianqi Zheng, Jia Ma, **Yubo Liu**, and Zhiguang Chen, "[BDCuckoo: An Efficient Cuckoo Hash for Block Device](http://pplau.github.io/files/npc21.pdf)", *in Proceedings of 18th Annual IFIP International Conference on Network and Parallel Computing* (NPC), 2021.
 1. Jia Ma, Xianqi Zheng, **Yubo Liu**, and Zhiguang Chen, "[KBP: Mining Block Access Pattern for I/O Prediction with K-Truss](http://pplau.github.io/files/ispa21.pdf)", *in Proceedings of IEEE 19th International Symposium on Parallel and Distributed Processing with Applications* (ISPA), 2021.
 1. Zhiguang Chen, **Yubo Liu**, Yongfeng Wang, and Yutong Lu, "[A GPU-Accelerated In-Memory Metadata Management Scheme for Large-Scale Parallel File Systems](https://link.springer.com/article/10.1007/s11390-020-0783-9)", *Journal of Computer Science and Technology*, 2021.
