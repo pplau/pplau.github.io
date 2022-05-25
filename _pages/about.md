@@ -19,7 +19,8 @@ Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab. He received his Ph.
 
 News
 ======
-* **[Dec. 2021]** Win OlympusMons Pioneer Award :-)
+* **[May 2022]** One paper is accepted by CCF Trans. HPC
+* **[Dec. 2021]** Win OlympusMons Pioneer Award
 * **[Nov. 2021]** One paper is accepted by DATE'22
 * **[Sep. 2021]** One paper is accepted by NPC'21
 * **[Aug. 2021]** One paper is accepted by ISPA'21
@@ -32,6 +33,7 @@ News
 
 Pubilications
 ======
+1. Yuxiao Han, Jia Ma, Fei Li, **Yubo Liu**, Nong Xiao, Yutong Lu, and Zhiguang Chen, "[A Tail-Tolerant Cloud Storage Scheduling Based on Precise Periodicity Detection](https://link.springer.com/article/10.1007/s42514-022-00099-8)", *CCF Transactions on High Performance Computing*, 2022.
 1. Yongfeng Wang, Yinjin Fu, **Yubo Liu**, Zhiguang Chen and Nong Xiao, "[Characterizing and Optimizing Hybrid DRAM-PM Main Memory System with Application Awareness](http://pplau.github.io/files/date21.pdf)", *in Proceedings of 25th Design, Automation and Test in Europe Conference* (DATE), 2022. (Acceptance Rate: 25%)
 1. Xianqi Zheng, Jia Ma, **Yubo Liu**, and Zhiguang Chen, "[BDCuckoo: An Efficient Cuckoo Hash for Block Device](http://pplau.github.io/files/npc21.pdf)", *in Proceedings of 18th Annual IFIP International Conference on Network and Parallel Computing* (NPC), 2021.
 1. Jia Ma, Xianqi Zheng, **Yubo Liu**, and Zhiguang Chen, "[KBP: Mining Block Access Pattern for I/O Prediction with K-Truss](http://pplau.github.io/files/ispa21.pdf)", *in Proceedings of IEEE 19th International Symposium on Parallel and Distributed Processing with Applications* (ISPA), 2021.
