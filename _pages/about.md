@@ -60,7 +60,7 @@ WiPs & Posters
 
 Awards
 ======
-* **[OlympusMons Pioneer Award](https://e.huawei.com/en/products/storage/topic/olympus-mons-awards-2021)** 2021
+* **[OlympusMons Pioneer Award](https://e.huawei.com/cn/topic/storage/olympus-mons-awards-2021)** 2021
 
 &emsp;
 
