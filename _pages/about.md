@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab, led by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen). He received his Ph.D. degree in computer science and technology from [National Supercomputer Center in Guangzhou](http://www.nscc-gz.cn/) at Sun Yat-sen University in 2021, advised by [Prof. Yutong Lu](https://cse.sysu.edu.cn/content/2483). He is also a joint Ph.D. student of [VISA Lab](http://visa.lab.asu.edu/web/about/) at Arizona State University, advised by [Prof. Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/). His research direction is storage system and high performance computing, including but not limited to distributed/local file system, object storage system, persistent memory, and consistency. His works have been published on some well-known academic conferences and journals (IPDPS, ICCD, Cluster Computing, etc).
+Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab. He received his Ph.D. degree in computer science and technology from [National Supercomputer Center in Guangzhou](http://www.nscc-gz.cn/) at Sun Yat-sen University in 2021, advised by [Prof. Yutong Lu](https://cse.sysu.edu.cn/content/2483). He is also a joint Ph.D. student of [VISA Lab](http://visa.lab.asu.edu/web/about/) at Arizona State University, advised by [Prof. Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/). His research direction is storage system and high performance computing, including but not limited to distributed/local file system, object storage system, persistent memory, and consistency. His works have been published on some well-known academic conferences and journals (IPDPS, ICCD, Cluster Computing, etc).
+
+
 
 **Contact:** yubo.liu [AT] nscc-gz [DOT] cn
 
@@ -19,6 +21,7 @@ Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab, led by [Prof. Haibo
 
 News
 ======
+* **[Sep. 2023]** One paper is accepted by DIMES'23
 * **[May 2022]** One paper is accepted by CCF Trans. on HPC
 * **[Dec. 2021]** Win OlympusMons Pioneer Award
 * **[Nov. 2021]** One paper is accepted by DATE'22
@@ -33,8 +36,9 @@ News
 
 Pubilications
 ======
+1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hanjun Guo, Xie Miao, and Xinwei Hu, "Cache or Direct Access? Revitalizing Cache in Heterogeneous Memory File System", *Workshop on Disruptive Memory Systems* (DIMES), 2023.
 1. Yuxiao Han, Jia Ma, Fei Li, **Yubo Liu**, Nong Xiao, Yutong Lu, and Zhiguang Chen, "[A Tail-Tolerant Cloud Storage Scheduling Based on Precise Periodicity Detection](https://link.springer.com/article/10.1007/s42514-022-00099-8)", *CCF Transactions on High Performance Computing*, 2022.
-1. Yongfeng Wang, Yinjin Fu, **Yubo Liu**, Zhiguang Chen and Nong Xiao, "[Characterizing and Optimizing Hybrid DRAM-PM Main Memory System with Application Awareness](http://pplau.github.io/files/date21.pdf)", *in Proceedings of 25th Design, Automation and Test in Europe Conference* (DATE), 2022. (Acceptance Rate: 25%)
+1. Yongfeng Wang, Yinjin Fu, **Yubo Liu**, Zhiguang Chen, and Nong Xiao, "[Characterizing and Optimizing Hybrid DRAM-PM Main Memory System with Application Awareness](http://pplau.github.io/files/date21.pdf)", *in Proceedings of 25th Design, Automation and Test in Europe Conference* (DATE), 2022. (Acceptance Rate: 25%)
 1. Xianqi Zheng, Jia Ma, **Yubo Liu**, and Zhiguang Chen, "[BDCuckoo: An Efficient Cuckoo Hash for Block Device](http://pplau.github.io/files/npc21.pdf)", *in Proceedings of 18th Annual IFIP International Conference on Network and Parallel Computing* (NPC), 2021.
 1. Jia Ma, Xianqi Zheng, **Yubo Liu**, and Zhiguang Chen, "[KBP: Mining Block Access Pattern for I/O Prediction with K-Truss](http://pplau.github.io/files/ispa21.pdf)", *in Proceedings of IEEE 19th International Symposium on Parallel and Distributed Processing with Applications* (ISPA), 2021.
 1. Zhiguang Chen, **Yubo Liu**, Yongfeng Wang, and Yutong Lu, "[A GPU-Accelerated In-Memory Metadata Management Scheme for Large-Scale Parallel File Systems](https://link.springer.com/article/10.1007/s11390-020-0783-9)", *Journal of Computer Science and Technology*, 2021.
@@ -61,6 +65,7 @@ WiPs & Posters
 Awards
 ======
 * **[OlympusMons Pioneer Award](https://e.huawei.com/cn/topic/storage/olympus-mons-awards-2021)** 2021
+* **Best Paper Award of NPC'21** 2021
 
 &emsp;
 
@@ -84,5 +89,5 @@ Talks
 
 Personal
 ======
-I play piano and guitar, and I also like to arrange music :-) [DEMOS](https://music.163.com/radio/?id=960671309&userid=97338948)
+I play piano and guitar, and I also like to arrange music :-)
 
