@@ -36,7 +36,7 @@ News
 
 Pubilications
 ======
-1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hanjun Guo, Xie Miao, and Xinwei Hu, "Cache or Direct Access? Revitalizing Cache in Heterogeneous Memory File System", *in Proceedings of Workshop on Disruptive Memory Systems* (DIMES), 2023.
+1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hanjun Guo, Xie Miao, and Xinwei Hu, "[Cache or Direct Access? Revitalizing Cache in Heterogeneous Memory File System](http://pplau.github.io/files/dimes23.pdf)", *in Proceedings of Workshop on Disruptive Memory Systems* (DIMES), 2023.
 1. Yuxiao Han, Jia Ma, Fei Li, **Yubo Liu**, Nong Xiao, Yutong Lu, and Zhiguang Chen, "[A Tail-Tolerant Cloud Storage Scheduling Based on Precise Periodicity Detection](https://link.springer.com/article/10.1007/s42514-022-00099-8)", *CCF Transactions on High Performance Computing*, 2022.
 1. Yongfeng Wang, Yinjin Fu, **Yubo Liu**, Zhiguang Chen, and Nong Xiao, "[Characterizing and Optimizing Hybrid DRAM-PM Main Memory System with Application Awareness](http://pplau.github.io/files/date21.pdf)", *in Proceedings of 25th Design, Automation and Test in Europe Conference* (DATE), 2022. (Acceptance Rate: 25%)
 1. Xianqi Zheng, Jia Ma, **Yubo Liu**, and Zhiguang Chen, "[BDCuckoo: An Efficient Cuckoo Hash for Block Device](http://pplau.github.io/files/npc21.pdf)", *in Proceedings of 18th Annual IFIP International Conference on Network and Parallel Computing* (NPC), 2021.
