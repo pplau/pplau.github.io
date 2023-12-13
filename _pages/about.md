@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab. He received his Ph.D. degree in computer science and technology from [National Supercomputer Center in Guangzhou](http://www.nscc-gz.cn/) at Sun Yat-sen University in 2021, advised by [Prof. Yutong Lu](https://cse.sysu.edu.cn/content/2483). He is also a joint Ph.D. student of [VISA Lab](http://visa.lab.asu.edu/web/about/) at Arizona State University, advised by [Prof. Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/). His research direction is storage system and high performance computing, including but not limited to distributed/local file system, object storage system, persistent memory, and consistency. His works have been published on some well-known academic conferences and journals (IPDPS, ICCD, Cluster Computing, etc).
+Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab. He received his Ph.D. degree in computer science and technology from [National Supercomputer Center in Guangzhou](http://www.nscc-gz.cn/) at Sun Yat-sen University in 2021, advised by [Prof. Yutong Lu](https://cse.sysu.edu.cn/content/2483). He is also a joint Ph.D. student of [VISA Lab](http://visa.lab.asu.edu/web/about/) at Arizona State University, advised by [Prof. Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/). His research direction is storage system and high performance computing, including but not limited to distributed/local file system, object storage system, persistent memory, and consistency. His works have been published on some well-known academic conferences and journals (FAST, IPDPS, ICCD, DATE, etc).
 
 
 
@@ -21,6 +21,7 @@ Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab. He received his Ph.
 
 News
 ======
+* **[Dec. 2023]** One paper is accepted by FAST'24
 * **[Sep. 2023]** One paper is accepted by DIMES'23
 * **[May 2022]** One paper is accepted by CCF Trans. on HPC
 * **[Dec. 2021]** Win OlympusMons Pioneer Award
@@ -36,6 +37,7 @@ News
 
 Pubilications
 ======
+1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hongbo Li, Hanjun Guo, Xie Miao, Xinwei Hu, and Haibo Chen, "Optimizing File Systems on Heterogeneous Memory by Integrating DRAM Cache with Virtual Memory Management", *in Proceedings of 22nd USENIX Conference on File and Storage Technologies* (FAST), 2024. (Acceptance Rate: 17.9%)
 1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hanjun Guo, Xie Miao, and Xinwei Hu, "[Cache or Direct Access? Revitalizing Cache in Heterogeneous Memory File System](http://pplau.github.io/files/dimes23.pdf)", *in Proceedings of Workshop on Disruptive Memory Systems* (DIMES), 2023.
 1. Yuxiao Han, Jia Ma, Fei Li, **Yubo Liu**, Nong Xiao, Yutong Lu, and Zhiguang Chen, "[A Tail-Tolerant Cloud Storage Scheduling Based on Precise Periodicity Detection](https://link.springer.com/article/10.1007/s42514-022-00099-8)", *CCF Transactions on High Performance Computing*, 2022.
 1. Yongfeng Wang, Yinjin Fu, **Yubo Liu**, Zhiguang Chen, and Nong Xiao, "[Characterizing and Optimizing Hybrid DRAM-PM Main Memory System with Application Awareness](http://pplau.github.io/files/date21.pdf)", *in Proceedings of 25th Design, Automation and Test in Europe Conference* (DATE), 2022. (Acceptance Rate: 25%)
