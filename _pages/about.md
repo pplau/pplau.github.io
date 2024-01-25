@@ -21,6 +21,7 @@ Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab. He received his Ph.
 
 News
 ======
+* **[Jan. 2024]** I serve as the program committee member of MSST'24
 * **[Dec. 2023]** One paper is accepted by FAST'24
 * **[Sep. 2023]** One paper is accepted by DIMES'23
 * **[May 2022]** One paper is accepted by CCF Trans. on HPC
