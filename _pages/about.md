@@ -77,7 +77,7 @@ Awards
 
 Talks
 ======
-* **[Oct. 2024 @ Santa Clara, USA]** Paper Presentation on FAST.
+* **[Feb. 2024 @ Santa Clara, USA]** Paper Presentation on FAST.
 * **[Oct. 2023 @ Koblenz, Germany]** Paper Presentation on DIMES.
 * **[May 2020 @ Online]** Paper Presentation on IPDPS.
 * **[Nov. 2019 @ Abu Dhabi, UAE]** Paper Presentation on ICCD.
