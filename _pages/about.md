@@ -38,7 +38,7 @@ News
 
 Pubilications
 ======
-1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hongbo Li, Hanjun Guo, Xie Miao, Xinwei Hu, and Haibo Chen, "Optimizing File Systems on Heterogeneous Memory by Integrating DRAM Cache with Virtual Memory Management", *in Proceedings of 22nd USENIX Conference on File and Storage Technologies* (FAST), 2024. (Acceptance Rate: 17.9%)
+1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hongbo Li, Hanjun Guo, Xie Miao, Xinwei Hu, and Haibo Chen, "[Optimizing File Systems on Heterogeneous Memory by Integrating DRAM Cache with Virtual Memory Management](http://pplau.github.io/files/fast24.pdf)", *in Proceedings of 22nd USENIX Conference on File and Storage Technologies* (FAST), 2024. (Acceptance Rate: 17.9%)
 1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hanjun Guo, Xie Miao, and Xinwei Hu, "[Cache or Direct Access? Revitalizing Cache in Heterogeneous Memory File System](http://pplau.github.io/files/dimes23.pdf)", *in Proceedings of Workshop on Disruptive Memory Systems* (DIMES), 2023.
 1. Yuxiao Han, Jia Ma, Fei Li, **Yubo Liu**, Nong Xiao, Yutong Lu, and Zhiguang Chen, "[A Tail-Tolerant Cloud Storage Scheduling Based on Precise Periodicity Detection](https://link.springer.com/article/10.1007/s42514-022-00099-8)", *CCF Transactions on High Performance Computing*, 2022.
 1. Yongfeng Wang, Yinjin Fu, **Yubo Liu**, Zhiguang Chen, and Nong Xiao, "[Characterizing and Optimizing Hybrid DRAM-PM Main Memory System with Application Awareness](http://pplau.github.io/files/date21.pdf)", *in Proceedings of 25th Design, Automation and Test in Europe Conference* (DATE), 2022. (Acceptance Rate: 25%)
@@ -77,12 +77,13 @@ Awards
 
 Talks
 ======
-* **[Oct. 2023 @ Koblenz, Germany]** Paper Presentation on DIMES 2023.
-* **[May 2020 @ Online]** Paper Presentation on IPDPS 2020.
-* **[Nov. 2019 @ Abu Dhabi, UAE]** Paper Presentation on ICCD 2019.
-* **[Feb. 2019 @ Boston, USA]** WiP Presentation on FAST 2019.
+* **[Oct. 2024 @ Santa Clara, USA]** Paper Presentation on FAST.
+* **[Oct. 2023 @ Koblenz, Germany]** Paper Presentation on DIMES.
+* **[May 2020 @ Online]** Paper Presentation on IPDPS.
+* **[Nov. 2019 @ Abu Dhabi, UAE]** Paper Presentation on ICCD.
+* **[Feb. 2019 @ Boston, USA]** WiP Presentation on FAST.
 * **[Sep. 2018 @ Beijing, China]** Invited Talk on Summer School of SuperData Project.
-* **[Jul. 2018 @ Frankfurt, Germany]** Poster Presentation on PhD Forum of ISC 2018.
+* **[Jul. 2018 @ Frankfurt, Germany]** Poster Presentation on PhD Forum of ISC.
 * **[Sep. 2017 @ Stavanger, Norway]** Invited Talk on Summer School of SuperData Project.
 * **[Jan. 2017 @ Paris, France]** Invited Talk on Week of International Scientific Young Talents.
 
