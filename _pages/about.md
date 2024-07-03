@@ -57,9 +57,19 @@ Pubilications
 
 WiPs & Posters
 ======
+1. Yongfeng Wang, **Yubo Liu**, Zhiguang Chen, Nong Xiao, and Ming Zhao, "Enhancing Performance of Disaggregated Key-Value Storage by Combining CXL and RDMA", *in Poster Section of International Conference on Massive Storage Systems and Technology* (MSST), 2024.
+
 1. Hongbo Li, **Yubo Liu**, Zhiguang Chen, and Nong Xiao, "GramFS: The Graph Model-based Namespace Management of Large-scale Distributed File Systems", *in Poster Section of USENIX Workshop on Hot Topics in Storage and File Systems* (HotStorage), 2020.
 1. **Yubo Liu**, Hongbo Li, Yutong Lu, and Ming Zhao, "Enhancing Metadata Management Efficiency for Local File Systems", *in Work-in-Progress Report and Poster Section of USENIX Conference on File and Storage Technologies* (FAST), 2019.
 1. **Yubo Liu**, Yutong Lu, Zhiguang Chen, Yunfei Du, and Nong Xiao, "HasFS: A File System for NVM-based Hybrid Storage Architecture", *in PhD Forum of ISC High Performance* (ISC), 2018.
+
+&emsp;
+
+-------
+
+Service
+======
+* **Program Committee:** MSST'24 NAS'22
 
 &emsp;
 
