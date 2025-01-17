@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab. He received his Ph.D. degree in computer science and technology from [National Supercomputer Center in Guangzhou](http://www.nscc-gz.cn/) at Sun Yat-sen University in 2021. He is also a joint Ph.D. student of [VISA Lab](http://visa.lab.asu.edu/web/about/) at Arizona State University. His research direction is storage system, operating system, and high performance computing. His works have been published on some well-known academic conferences and journals (FAST, IPDPS, ICCD, DATE, etc).
+Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab. He received his Ph.D. degree in computer science and technology from [National Supercomputer Center in Guangzhou](http://www.nscc-gz.cn/) at Sun Yat-sen University in 2021. He is also a joint Ph.D. student of [VISA Lab](http://visa.lab.asu.edu/web/about/) at Arizona State University. His research direction is storage system, operating system, and high performance computing. His works have been published on some well-known academic conferences and journals (FAST, TOS, IPDPS, ICCD, DATE, etc).
 
 
 
