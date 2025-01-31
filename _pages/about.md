@@ -42,7 +42,7 @@ News
 Pubilications
 ======
 1. **Yubo Liu**, Hongbo Li, Mingrui Liu, Rui Jing, Jian Guo, Bo Zhang, Hanjun Guo, Yuxin Ren, and Ning Jia, ''FlacIO: Flat and Collective I/O for Container Image Service", *in Proceedings of 23rd USENIX Conference on File and Storage Technologies* (FAST), 2025. (Acceptance Rate: 21.5%)
-1. **Yubo Liu**, Yongfeng Wang, Zhiguang Chen, Yutong Lu, and Ming Zhao, "WALSH: Write-Aggregating Log-Structured Hashing for Hybrid Memory", *ACM Transactions on Storage* (TOS), 2024.
+1. **Yubo Liu**, Yongfeng Wang, Zhiguang Chen, Yutong Lu, and Ming Zhao, "[WALSH: Write-Aggregating Log-Structured Hashing for Hybrid Memory](https://dl.acm.org/doi/10.1145/3715010)", *ACM Transactions on Storage* (TOS), 2025.
 1. Yuxiao Han, **Yubo Liu**, Ziyan Zhang, Fei Li, Zhiguang Chen, and Nong Xiao, "Superior F1-score: I/O Feature Driven Algorithms for Stream Computing Systems Workload Identification", *Frontiers of Computer Science* (FCS), 2024.
 1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hongbo Li, Hanjun Guo, Xie Miao, Xinwei Hu, and Haibo Chen, "[Optimizing File Systems on Heterogeneous Memory by Integrating DRAM Cache with Virtual Memory Management](http://pplau.github.io/files/fast24.pdf)", *in Proceedings of 22nd USENIX Conference on File and Storage Technologies* (FAST), 2024. (Acceptance Rate: 17.9%)
 1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hanjun Guo, Xie Miao, and Xinwei Hu, "[Cache or Direct Access? Revitalizing Cache in Heterogeneous Memory File System](http://pplau.github.io/files/dimes23.pdf)", *in Proceedings of Workshop on Disruptive Memory Systems* (DIMES), 2023.
