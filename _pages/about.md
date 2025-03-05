@@ -41,7 +41,7 @@ News
 
 Pubilications
 ======
-1. **Yubo Liu**, Hongbo Li, Mingrui Liu, Rui Jing, Jian Guo, Bo Zhang, Hanjun Guo, Yuxin Ren, and Ning Jia, ''FlacIO: Flat and Collective I/O for Container Image Service", *in Proceedings of 23rd USENIX Conference on File and Storage Technologies* (FAST), 2025. (Acceptance Rate: 21.5%)
+1. **Yubo Liu**, Hongbo Li, Mingrui Liu, Rui Jing, Jian Guo, Bo Zhang, Hanjun Guo, Yuxin Ren, and Ning Jia, ''[FlacIO: Flat and Collective I/O for Container Image Service](http://pplau.github.io/files/fast25.pdf)", *in Proceedings of 23rd USENIX Conference on File and Storage Technologies* (FAST), 2025. (Acceptance Rate: 21.5%)
 1. **Yubo Liu**, Yongfeng Wang, Zhiguang Chen, Yutong Lu, and Ming Zhao, "[WALSH: Write-Aggregating Log-Structured Hashing for Hybrid Memory](https://dl.acm.org/doi/10.1145/3715010)", *ACM Transactions on Storage* (TOS), 2025.
 1. Yuxiao Han, **Yubo Liu**, Ziyan Zhang, Fei Li, Zhiguang Chen, and Nong Xiao, "Superior F1-score: I/O Feature Driven Algorithms for Stream Computing Systems Workload Identification", *Frontiers of Computer Science* (FCS), 2024.
 1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hongbo Li, Hanjun Guo, Xie Miao, Xinwei Hu, and Haibo Chen, "[Optimizing File Systems on Heterogeneous Memory by Integrating DRAM Cache with Virtual Memory Management](http://pplau.github.io/files/fast24.pdf)", *in Proceedings of 22nd USENIX Conference on File and Storage Technologies* (FAST), 2024. (Acceptance Rate: 17.9%)
@@ -93,6 +93,7 @@ Awards
 
 Talks
 ======
+* **[Feb. 2025 @ Santa Clara, USA]** Paper Presentation on FAST.
 * **[Feb. 2024 @ Santa Clara, USA]** Paper Presentation on FAST.
 * **[Oct. 2023 @ Koblenz, Germany]** Paper Presentation on DIMES.
 * **[May 2020 @ Online]** Paper Presentation on IPDPS.
