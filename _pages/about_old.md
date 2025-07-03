@@ -21,12 +21,19 @@ Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab. He received his Ph.
 
 News
 ======
-* **[May 2025]** One paper is accepted by HotStorage'25
 * **[Dec. 2024]** One paper is accepted by FAST'25
 * **[Oct. 2024]** One paper is accepted by TOS
+* **[Oct. 2024]** One paper is accepted by FCS
 * **[Jan. 2024]** I serve as the program committee member of MSST'24
 * **[Dec. 2023]** One paper is accepted by FAST'24
 * **[Sep. 2023]** One paper is accepted by DIMES'23
+* **[May 2022]** One paper is accepted by CCF Trans. on HPC
+* **[Dec. 2021]** Win OlympusMons Pioneer Award
+* **[Nov. 2021]** One paper is accepted by DATE'22
+* **[Sep. 2021]** One paper is accepted by NPC'21
+* **[Aug. 2021]** One paper is accepted by ISPA'21
+* **[Jun. 2021]** Get my Ph.D. degree!!! Cheers :-)
+
 &emsp;
 
 -------
@@ -34,9 +41,9 @@ News
 
 Pubilications
 ======
-1. Yuxin Ren, Mingrui Liu, Hongbo Li, Chang Liao, Xiaojia Huang, Jianhua Zhang, Hanjun Guo, **Yubo Liu (corresponding)**, and Ning Jia, ''[Towards Rack-as-a-Computer in Memory Interconnect Era with Coordinated Operating System Sharing](https://dl.acm.org/doi/10.1145/3736548.3737832)", *in Proceedings of the 17th ACM Workshop on Hot Topics in Storage and File Systems* (HotStorage), 2025.
 1. **Yubo Liu**, Hongbo Li, Mingrui Liu, Rui Jing, Jian Guo, Bo Zhang, Hanjun Guo, Yuxin Ren, and Ning Jia, ''[FlacIO: Flat and Collective I/O for Container Image Service](http://pplau.github.io/files/fast25.pdf)", *in Proceedings of 23rd USENIX Conference on File and Storage Technologies* (FAST), 2025. (Acceptance Rate: 21.5%)
 1. **Yubo Liu**, Yongfeng Wang, Zhiguang Chen, Yutong Lu, and Ming Zhao, "[WALSH: Write-Aggregating Log-Structured Hashing for Hybrid Memory](https://dl.acm.org/doi/10.1145/3715010)", *ACM Transactions on Storage* (TOS), 2025.
+1. Yuxiao Han, **Yubo Liu**, Ziyan Zhang, Fei Li, Zhiguang Chen, and Nong Xiao, "Superior F1-score: I/O Feature Driven Algorithms for Stream Computing Systems Workload Identification", *Frontiers of Computer Science* (FCS), 2024.
 1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hongbo Li, Hanjun Guo, Xie Miao, Xinwei Hu, and Haibo Chen, "[Optimizing File Systems on Heterogeneous Memory by Integrating DRAM Cache with Virtual Memory Management](http://pplau.github.io/files/fast24.pdf)", *in Proceedings of 22nd USENIX Conference on File and Storage Technologies* (FAST), 2024. (Acceptance Rate: 17.9%)
 1. **Yubo Liu**, Yuxin Ren, Mingrui Liu, Hanjun Guo, Xie Miao, and Xinwei Hu, "[Cache or Direct Access? Revitalizing Cache in Heterogeneous Memory File System](http://pplau.github.io/files/dimes23.pdf)", *in Proceedings of Workshop on Disruptive Memory Systems* (DIMES), 2023.
 1. Yuxiao Han, Jia Ma, Fei Li, **Yubo Liu**, Nong Xiao, Yutong Lu, and Zhiguang Chen, "[A Tail-Tolerant Cloud Storage Scheduling Based on Precise Periodicity Detection](https://link.springer.com/article/10.1007/s42514-022-00099-8)", *CCF Transactions on High Performance Computing*, 2022.
@@ -68,7 +75,7 @@ WiPs & Posters
 
 Service
 ======
-* **Program Committee:** ChinaSys'25 MSST'24 NAS'22
+* **Program Committee:** MSST'24 NAS'22
 
 &emsp;
 
