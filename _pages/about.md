@@ -21,6 +21,7 @@ Dr. Yubo Liu is a research engineer at Huawei OS kernel Lab. He received his Ph.
 
 News
 ======
+* **[Dec. 2025]** One paper is accepted by FAST'26
 * **[May 2025]** One paper is accepted by HotStorage'25
 * **[Dec. 2024]** One paper is accepted by FAST'25
 * **[Oct. 2024]** One paper is accepted by TOS
@@ -34,6 +35,7 @@ News
 
 Pubilications
 ======
+1. **Yubo Liu**, Hongbo Li, Xiaojia Huang, Yongfeng Wang, Hanjun Guo, Hui Chen, Yuxin Ren, and Ning Jia, ''[Accelerating Model Loading in LLM Inference by Programmable Page Cache](http://pplau.github.io/files/fast26.pdf)", *in Proceedings of 24td USENIX Conference on File and Storage Technologies* (FAST), 2026. (Acceptance Rate: 17.4%)
 1. Yuxin Ren, Mingrui Liu, Hongbo Li, Chang Liao, Xiaojia Huang, Jianhua Zhang, Hanjun Guo, **Yubo Liu (corresponding)**, and Ning Jia, ''[Towards Rack-as-a-Computer in Memory Interconnect Era with Coordinated Operating System Sharing](http://pplau.github.io/files/hotstorage25.pdf)", *in Proceedings of the 17th ACM Workshop on Hot Topics in Storage and File Systems* (HotStorage), 2025.
 1. **Yubo Liu**, Hongbo Li, Mingrui Liu, Rui Jing, Jian Guo, Bo Zhang, Hanjun Guo, Yuxin Ren, and Ning Jia, ''[FlacIO: Flat and Collective I/O for Container Image Service](http://pplau.github.io/files/fast25.pdf)", *in Proceedings of 23rd USENIX Conference on File and Storage Technologies* (FAST), 2025. (Acceptance Rate: 21.5%)
 1. **Yubo Liu**, Yongfeng Wang, Zhiguang Chen, Yutong Lu, and Ming Zhao, "[WALSH: Write-Aggregating Log-Structured Hashing for Hybrid Memory](https://dl.acm.org/doi/10.1145/3715010)", *ACM Transactions on Storage* (TOS), 2025.
